@@ -68,7 +68,7 @@ const Header = () => {
               <div className="flex justify-center items-center h-full">
                 <ul className="flex flex-col items-center space-y-6">
                   <li>
-                    <a href="/" onClick={closeSidebar}>
+                    <a href="#home" onClick={closeSidebar}>
                       Home
                     </a>
                   </li>
