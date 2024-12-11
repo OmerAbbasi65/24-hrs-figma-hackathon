@@ -20,7 +20,7 @@ const Header = () => {
 
   return (
     <div>
-      <header className="desktop home-bg h-[100px] md:h-[150px] lg:h-[100px] my-header">
+      <header className="desktop home-bg h-[100px] md:h-[150px] lg:h-[100px] my-header max-w-full ">
         <nav className='mynav inline'>
           <div className='flex justify-center'>  
             <ul className='mynavUl flex'>

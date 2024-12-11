@@ -4,7 +4,7 @@
 
 const HomePage = () => {
     return (
-        <div className="min-h-screen home-bg ">
+        <div className="min-h-screen home-bg max-w-full">
             {/* Hero Section */}
             <section className=" gap-0 flex flex-col md:flex-row justify-center items-center px-4 md:px-24 py-12 md:-mt-[100px]">
                 
@@ -13,7 +13,7 @@ const HomePage = () => {
     <div class="text-left">
   <a
     href="#"
-    class="shop-btn mt-4 px-6 py-2 text-black hover:text-gray-900 inline-block relative"
+    class="shop-btn -ml-[20px]  mt-4 px-6 py-2 text-black hover:text-gray-900 inline-block relative"
   >
     Shop Now
     {/* <!-- Underline --> */}
