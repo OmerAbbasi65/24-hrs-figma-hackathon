@@ -38,13 +38,13 @@ const Footer = () => {
                         <h2 class="leading-[80px] title-font font-semibold sf-gray tracking-widest text-sm mb-3">Help</h2>
                         <nav class="list-none mb-10">
                             <li>
-                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer">Payment Options</a>
+                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer text-black">Payment Options</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer">Returns</a>
+                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer text-black">Returns</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer">Privacy Policies</a>
+                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer text-black">Privacy Policies</a>
                             </li>
 
                         </nav>
