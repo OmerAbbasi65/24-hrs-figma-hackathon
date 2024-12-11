@@ -21,16 +21,16 @@ const Footer = () => {
                         <h2 class="leading-[80px] title-font font-semibold sf-gray tracking-widest text-sm mb-3">Links</h2>
                         <nav class="list-none mb-10 ">
                             <li>
-                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800">Home</a>
+                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800 cursor-pointer">Home</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800">Shop</a>
+                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800 cursor-pointer">Shop</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800">About</a>
+                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800 cursor-pointer">About</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800">Contact</a>
+                                <a class="leading-[75px] text-black font-semibold hover:text-gray-800 cursor-pointer">Contact</a>
                             </li>
                         </nav>
                     </div>
@@ -38,13 +38,13 @@ const Footer = () => {
                         <h2 class="leading-[80px] title-font font-semibold sf-gray tracking-widest text-sm mb-3">Help</h2>
                         <nav class="list-none mb-10">
                             <li>
-                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800">Payment Options</a>
+                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer">Payment Options</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800">Returns</a>
+                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer">Returns</a>
                             </li>
                             <li>
-                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800">Privacy Policies</a>
+                                <a class="leading-[75px] text-gray-600 font-semibold hover:text-gray-800 cursor-pointer">Privacy Policies</a>
                             </li>
 
                         </nav>
@@ -67,7 +67,7 @@ const Footer = () => {
                                 
 
                             
-                            <button class="lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-black ml-2 bg-none border-0 pb-4 px-0 focus:outline-none hover:text-indigo-600 underline decoration-skip-ink-none text-[14px] leading-[75px]  underline-offset-[5px] font-semibold ml-0">SUBSCRIBE</button>
+                            <button class="lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-black ml-2 bg-none border-0 pb-4 px-0 focus:outline-none hover:text-indigo-600 underline decoration-skip-ink-none text-[14px] leading-[75px]  underline-offset-[5px] font-semibold ml-0 cursor-pointer">SUBSCRIBE</button>
                             </div>
                             </div>
 
